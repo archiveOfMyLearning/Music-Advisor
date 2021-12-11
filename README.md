@@ -1,4 +1,4 @@
-# SpotifyProject
+# Spotify Music Advisor
 This is an educational project from JetBrains Academy named Music Advisor (https://hyperskill.org/projects/62?track=12)
 
 The project covers following topics:
