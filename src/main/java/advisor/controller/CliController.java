@@ -69,7 +69,7 @@ public class CliController implements Runnable {
                     sb.append(s).append("\n");
                 }
             }
-            return sb.toString();
+            return sb.toString()+getFooter();
         }
         public String getNextPage() {
             if ((currentPageNumber+1)*perPage > response.items.size()) return NO_MORE_PAGES;
@@ -141,8 +141,7 @@ public class CliController implements Runnable {
                     }
                     if (response == null) continue;
                     paginator = new Paginator(response);
-                    System.out.print(paginator.getCurrentPage());
-                    System.out.println(paginator.getFooter());
+                    System.out.println(paginator.getCurrentPage());
                     break;
             }
         }
