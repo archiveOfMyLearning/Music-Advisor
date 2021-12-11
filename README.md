@@ -7,5 +7,3 @@ The project covers following topics:
   * Working with REST API
   * Using gradle dependencies
   * Parsing JSONs
-
-test
