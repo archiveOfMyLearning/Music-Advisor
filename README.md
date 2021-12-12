@@ -12,25 +12,25 @@ CLI interface accept commands:
 
 ## Example:
 
-<code>\> auth<\code>  
+<code>>auth</code>  
 use this link to request the access code: https://accounts.spotify.com/authorize?client_id=f3f49f01499240a6bc05989e01ebc5cd&redirect_uri=http://localhost:8080&response_type=code  
 waiting for code...  
 Success!  
-\> categories  
+<code>>categories</code>  
 Top Lists  
 Happy Holidays  
 Pop  
 Rap  
 Chill  
 ---PAGE 1 OF 4---  
-\> next  
+<code>>next</code>  
 Rock  
 Gaming  
 Focus  
 Dance/Electronic  
 Workout  
 ---PAGE 2 OF 4---  
-\> playlists Workout  
+<code>>playlists Workout</code>  
 Cardio  
 https://open.spotify.com/playlist/37i9dQZF1DWSJHnPb1f0X3  
   
@@ -45,5 +45,5 @@ https://open.spotify.com/playlist/37i9dQZF1DWUVpAXiEPK8P
   
 Hype  
 https://open.spotify.com/playlist/37i9dQZF1DX4eRPd9frC1m  
-exit  
+<code>>exit</code>  
 ---GOODBYE!---  
