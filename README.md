@@ -19,13 +19,28 @@ Success!
 Top Lists  
 Happy Holidays  
 Pop  
-Russian Rap  
+Rap  
 Chill  
 ---PAGE 1 OF 4---  
+\> next  
 Rock  
 Gaming  
 Focus  
 Dance/Electronic  
 Workout  
 ---PAGE 2 OF 4---  
-
+\> playlists Workout  
+Cardio  
+https://open.spotify.com/playlist/37i9dQZF1DWSJHnPb1f0X3  
+  
+Rock Your Body  
+https://open.spotify.com/playlist/37i9dQZF1DXbFRZSqP41al  
+  
+Beast Mode Hip-Hop  
+https://open.spotify.com/playlist/37i9dQZF1DX9oh43oAzkyx  
+  
+Power Workout  
+https://open.spotify.com/playlist/37i9dQZF1DWUVpAXiEPK8P  
+  
+Hype  
+https://open.spotify.com/playlist/37i9dQZF1DX4eRPd9frC1m  
