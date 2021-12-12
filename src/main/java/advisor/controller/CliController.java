@@ -74,13 +74,13 @@ public class CliController implements Runnable {
         public String getNextPage() {
             if ((currentPageNumber+1)*perPage > response.items.size()) return NO_MORE_PAGES;
             currentPageNumber++;
-            return getCurrentPage();//+getFooter();
+            return getCurrentPage();
         }
 
         public String getPrevPage() {
             if (currentPageNumber==1) return NO_MORE_PAGES;
             currentPageNumber--;
-            return getCurrentPage();//+getFooter();
+            return getCurrentPage();
         }
 
     }
