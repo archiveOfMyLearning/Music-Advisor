@@ -1,7 +1,7 @@
 # Spotify Music Advisor
 This is an educational project named [Music Advisor](https://hyperskill.org/projects/62?track=12) from JetBrains Academy.  
 The app is a CLI utility that uses [Spotify web API](https://developer.spotify.com/documentation/web-api/reference/#/).  
-The Spotify API wrapper located in **spotifyapi** package and separated from CLI app logic, and can be reused.
+The Spotify API wrapper is in **spotifyapi** package and separated from CLI app logic, and can be reused.
 
 
 Command line interface accept commands:  
