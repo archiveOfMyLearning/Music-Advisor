@@ -11,8 +11,8 @@ CLI interface accept commands:
 * prev -- previous page of current command output
 
 ## Example:
-<code>
-\> auth  
+
+<code>\> auth<\code>  
 use this link to request the access code: https://accounts.spotify.com/authorize?client_id=f3f49f01499240a6bc05989e01ebc5cd&redirect_uri=http://localhost:8080&response_type=code  
 waiting for code...  
 Success!  
@@ -47,4 +47,3 @@ Hype
 https://open.spotify.com/playlist/37i9dQZF1DX4eRPd9frC1m  
 exit  
 ---GOODBYE!---  
-<\code>
