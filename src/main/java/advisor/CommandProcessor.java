@@ -1,4 +1,4 @@
-package advisor.model;
+package advisor;
 
 
 import advisor.spotifyapi.SpotifyApiException;

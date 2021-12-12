@@ -1,6 +1,5 @@
 package advisor;
 
-import advisor.controller.CliController;
 import advisor.spotifyapi.SpotifyConnection;
 
 

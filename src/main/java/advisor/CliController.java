@@ -1,8 +1,6 @@
-package advisor.controller;
+package advisor;
 
 
-import advisor.model.CommandProcessor;
-import advisor.model.CommandProcessorException;
 import advisor.spotifyapi.SpotifyApiException;
 import advisor.spotifyapi.SpotifyApiService;
 import advisor.spotifyapi.SpotifyAuthException;

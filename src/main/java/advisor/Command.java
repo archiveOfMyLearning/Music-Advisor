@@ -1,4 +1,4 @@
-package advisor.controller;
+package advisor;
 
 import advisor.spotifyapi.SpotifyCommand;
 

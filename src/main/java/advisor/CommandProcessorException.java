@@ -1,4 +1,4 @@
-package advisor.model;
+package advisor;
 
 public class CommandProcessorException extends RuntimeException{
     public CommandProcessorException(String message) {
