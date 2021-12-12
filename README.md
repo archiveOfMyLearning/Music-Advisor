@@ -11,4 +11,4 @@ CLI interface accept commands:
 * prev -- previous page of current command output
 
 ## Example:
-> auth
+\> auth
