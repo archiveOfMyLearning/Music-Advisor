@@ -12,4 +12,5 @@ CLI interface accept commands:
 
 ## Example:
 \> auth
+
 f
