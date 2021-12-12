@@ -22,5 +22,10 @@ Pop
 Russian Rap  
 Chill  
 ---PAGE 1 OF 4---  
-
+Rock  
+Gaming  
+Focus  
+Dance/Electronic  
+Workout  
+---PAGE 2 OF 4---  
 
