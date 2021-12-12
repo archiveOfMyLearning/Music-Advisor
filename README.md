@@ -12,19 +12,15 @@ CLI interface accept commands:
 
 ## Example:
 \> auth  
-use this link to request the access code: https://accounts.spotify.com/authorize?client_id=f3f49f01499240a6bc05989e01ebc5cd&redirect_uri=http://localhost:8080&response_type=code
-
-waiting for code...
-
-Success!
-
-categories
-Illegal command "". Try again
-Top Lists
-Happy Holidays
-Pop
-Russian Rap
-Chill
----PAGE 1 OF 4---
+use this link to request the access code: https://accounts.spotify.com/authorize?client_id=f3f49f01499240a6bc05989e01ebc5cd&redirect_uri=http://localhost:8080&response_type=code  
+waiting for code...  
+Success!  
+\> categories  
+Top Lists  
+Happy Holidays  
+Pop  
+Russian Rap  
+Chill  
+---PAGE 1 OF 4---  
 
 
